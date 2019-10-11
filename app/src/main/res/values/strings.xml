@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Dynamic Delivery Test</string>
+    <string name="app_name" translatable="false">Dynamic Delivery Test</string>
+
+    <string name="split_test_dynamic_app">Test</string>
 </resources>
