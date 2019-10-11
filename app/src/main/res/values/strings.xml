@@ -2,4 +2,7 @@
     <string name="app_name" translatable="false">Dynamic Delivery Test</string>
 
     <string name="split_test_dynamic_app">Test</string>
+
+    <string name="route_to_dynamic_feature" translatable="false">Route to dynamic feature</string>
+    <string name="title_dynamicfeature" translatable="false">Dynamic Module (on-demand)</string>
 </resources>
